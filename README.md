@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to Vibe App
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/6aaaba7d-65fb-4af1-969c-c392e53aee89
+**URL**: https://vibe-app-teal.vercel.app/
 
 ## How can I edit this code?
 
